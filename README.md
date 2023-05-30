@@ -42,3 +42,10 @@ command streamlit run app.py in the terminal, where app.py is the name of your S
 
 7. Improve the application: Continuously improve the application by adding new features, optimizing the code, and fixing bugs. You can also add user
 authentication and authorization to make the application more secure.
+![image](https://github.com/Saradhaperumal/Business-Card-Extraction-Using-OCR/assets/116868444/e35a4438-c3c8-451d-981b-059a4a5f1370)
+![image](https://github.com/Saradhaperumal/Business-Card-Extraction-Using-OCR/assets/116868444/e54050ce-1691-4585-a475-dbcf5ffa36cc)
+![image](https://github.com/Saradhaperumal/Business-Card-Extraction-Using-OCR/assets/116868444/3f793270-31d1-4fd2-99d6-0ba650f052b6)
+![image](https://github.com/Saradhaperumal/Business-Card-Extraction-Using-OCR/assets/116868444/9a44e9b0-03b3-4d76-b17e-d076eb545310)
+
+
+
